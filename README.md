@@ -1,2 +1,2 @@
 # bibtex_analyzer
-Python notebook to analyze bibtex references
+Python notebook and code to analyze bibtex references
